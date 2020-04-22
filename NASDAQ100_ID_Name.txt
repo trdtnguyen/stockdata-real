@@ -1,0 +1,103 @@
+ATVI	Activision Blizzard
+ADBE	Adobe Inc.
+AMD	Advanced Micro Devices
+ALXN	Alexion Pharmaceuticals
+ALGN	Align Technology, Inc.
+GOOGL	Alphabet Inc. (Class A)
+GOOG	Alphabet Inc. (Class C)
+AMZN	Amazon.com
+AAL	American Airlines Group
+AMGN	Amgen Inc.
+ADI	Analog Devices
+ANSS	ANSYS
+AAPL	Apple Inc.
+AMAT	Applied Materials, Inc.
+ASML	ASML Holding
+ADSK	Autodesk, Inc.
+ADP	Automatic Data Processing, Inc.
+BIDU	Baidu.com, Inc.
+BIIB	Biogen, Inc
+BMRN	BioMarin Pharmaceutical, Inc.
+BKNG	Booking Holdings
+AVGO	Broadcom Inc.
+CDNS	Cadence Design Systems
+CDW	CDW
+CERN	Cerner Corporation
+CHTR	Charter Communications, Inc.
+CHKP	Check Point Software Technologies Ltd.
+CTAS	Cintas Corporation
+CSCO	Cisco Systems
+CTXS	Citrix Systems
+CTSH	Cognizant Technology Solutions Corporation
+CMCSA	Comcast Corporation
+CPRT	Copart
+CSGP	CoStar Group
+COST	Costco Wholesale Corporation
+CSX	CSX Corporation
+DLTR	Dollar Tree, Inc.
+EBAY	eBay Inc.
+EA	Electronic Arts
+EXC	Exelon Corporation
+EXPE	Expedia Group
+FB	Facebook, Inc.
+FAST	Fastenal Company
+FISV	Fiserv, Inc.
+FOXA	Fox Corporation (Class A)
+FOX	Fox Corporation (Class B)
+GILD	Gilead Sciences, Inc.
+IDXX	IDEXX Laboratories
+ILMN	Illumina, Inc.
+INCY	Incyte Corporation
+INTC	Intel Corporation
+INTU	Intuit, Inc.
+ISRG	Intuitive Surgical Inc.
+JD	JD.com
+KLAC	KLA Corporation
+KHC	Kraft Heinz
+LRCX	Lam Research, Inc.
+LBTYA	Liberty Global (Class A)
+LBTYK	Liberty Global (Class C)
+LULU	Lululemon athletica
+MAR	Marriott International, Inc.
+MXIM	Maxim Integrated Products
+MELI	MercadoLibre
+MCHP	Microchip Technology
+MU	Micron Technology, Inc.
+MSFT	Microsoft Corporation
+MDLZ	Mondelēz International
+MNST	Monster Beverage Corporation
+NTAP	NetApp
+NTES	NetEase, Inc.
+NFLX	Netflix
+NVDA	NVIDIA Corporation
+NXPI	NXP Semiconductors N.V.
+ORLY	O'Reilly Automotive, Inc.
+PCAR	PACCAR Inc.
+PAYX	Paychex, Inc.
+PYPL	PayPal Holdings, Inc.
+PEP	PepsiCo, Inc.
+QCOM	QUALCOMM Incorporated
+REGN	Regeneron Pharmaceuticals
+ROST	Ross Stores Inc.
+SGEN	Seattle Genetics
+SIRI	Sirius XM Radio, Inc.
+SWKS	Skyworks Solutions, Inc.
+SPLK	Splunk
+SBUX	Starbucks Corporation
+SNPS	Synopsys, Inc.
+TMUS	T-Mobile US
+TTWO	Take-Two Interactive, Inc.
+TSLA	Tesla, Inc.
+TXN	Texas Instruments, Inc.
+TCOM	Trip.com Group
+ULTA	Ulta Beauty
+UAL	United Airlines Holdings
+VRSN	VeriSign
+VRSK	Verisk Analytics
+VRTX	Vertex Pharmaceuticals
+WBA	Walgreen Boots Alliance, Inc.
+WDAY	Workday, Inc.
+WDC	Western Digital
+WLTW	Willis Towers Watson
+XEL	Xcel Energy, Inc.
+XLNX	Xilinx, Inc.

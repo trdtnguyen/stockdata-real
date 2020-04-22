@@ -1,0 +1,24 @@
+//OUT_DIR=NASDAQ100
+//SYMBOL_LIST_FILE=NASDAQ100_ID_Name.txt
+//WRONG_SYMBOL_LIST=NASDAQ100_wrong_symbol.txt
+//TRACK_SYMBOL_LIST=NASDAQ100_track_symbol.txt
+
+OUT_DIR=SP500
+SYMBOL_LIST_FILE=SP500_ID_Name.txt
+WRONG_SYMBOL_LIST=SP500_wrong_symbol.txt
+TRACK_SYMBOL_LIST=SP500_track_symbol.txt
+
+HOST_SCHEME=https
+HOST_URL=query1.finance.yahoo.com
+HOST_PATH=/v7/finance/download
+HOST_INTERVAL=1d
+HOST_EVENT=history
+HOST_CRUMB=C9luNcNjVkK
+
+//date format: yyyymmdd	
+FROM_DATE=20200101
+TO_DATE=20200421
+
+//time mode: d for daily, w for weekly, m for monthly
+TIME_MODE=d
+
